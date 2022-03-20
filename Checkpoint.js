@@ -103,7 +103,7 @@ function microondas(comida, tempo) {
             console.log('KABUM')
             console.log('Prato pronto, bom apetite!!!')
         }
-        else console.log('Prato pronto inexistente')  ;
+        else;
     }
     else  console.log('Prato pronto inexistente')  
 }
