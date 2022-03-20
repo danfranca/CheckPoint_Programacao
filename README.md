@@ -19,7 +19,7 @@ Menu para um microondas super veloz, onde teremos 5 opções de comida com seus 
 - No final de cada tarefa, o microondas deverá exibir a mensagem: "Prato pronto, bom apetite!!!".
 
 ## Métodos utilizados para solução:
-Estrutura condicional, funções, declarações de variáveis e estrutura de verificação.
+Funções, declarações de variáveis, if/else, switch, e estrutura de verificação.
 
 ## Ferramentas utilizadas 
 #### Linguagem: Javascript
